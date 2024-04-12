@@ -1,0 +1,58 @@
+
+.container-text {
+    display: flow-root;
+    width: 600px;
+}
+
+h2 {
+
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 3rem;
+
+
+    color: #9E6DC2;
+}
+
+.p-header {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #fff;
+    margin-top: 16px;
+    max-width: 479px;
+}
+
+p {
+    color: #170027;
+    font-size: 15px;
+}
+
+.img-header {
+    border: none;
+}
+
+
+.sub-title {
+    color: #290742;
+}
+
+.text-blog-border {
+    border-bottom: 4px solid #fbf6ff;
+    padding: 15px;
+}
+
+.galary {
+    display: flex;
+    margin-top: 80px;
+}
+
+.galary-img {
+    width: 30%;
+    height: auto;
+}
+
+.container {
+    display: flex;
+    margin-top: 30px;
+}
